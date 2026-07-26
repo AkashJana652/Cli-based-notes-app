@@ -31,7 +31,7 @@ This project allows users to create, view, search, edit, rename, and delete note
 ## Project Structure
 
 ```
-main.py        # Main application
+Cli_based_notes_app.py        # Main application
 notes.json     # Stores all notes
 ```
 
@@ -45,7 +45,7 @@ notes.json     # Stores all notes
 4. Run:
 
 ```bash
-python main.py
+python Cli_based_notes_app.py
 ```
 
 The application will automatically create `notes.json` if it does not already exist.
