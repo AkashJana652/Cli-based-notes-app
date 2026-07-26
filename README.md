@@ -10,21 +10,21 @@ This project allows users to create, view, search, edit, rename, and delete note
 
 ## Features
 
-* Add new notes
-* View saved notes
-* Search notes by title
-* Edit note contents
-* Rename note titles
-* Delete notes
-* JSON-based persistent storage
-* Input validation for common user errors
+- Add new notes
+- View saved notes
+- Search notes by title
+- Edit note contents
+- Rename note titles
+- Delete notes
+- JSON-based persistent storage
+- Input validation for common user errors
 
 ---
 
 ## Technologies Used
 
-* Python
-* JSON 
+- Python
+- JSON
 
 ---
 
@@ -56,14 +56,14 @@ The application will automatically create `notes.json` if it does not already ex
 
 This project helped me understand:
 
-* Python functions
-* Dictionaries
-* File handling
-* JSON serialization and deserialization
-* CRUD (Create, Read, Update, Delete) operations
-* Input validation
-* Refactoring repeated code into reusable functions
-* Designing a simple command-line application
+- Python functions
+- Dictionaries
+- File handling
+- JSON serialization and deserialization
+- CRUD (Create, Read, Update, Delete) operations
+- Input validation
+- Refactoring repeated code into reusable functions
+- Designing a simple command-line application
 
 ---
 
@@ -71,11 +71,11 @@ This project helped me understand:
 
 Some features I would like to add in future versions:
 
-* Note categories or tags
-* Sorting notes
-* Date and time for each note
-* Database support
-* Graphical user interface (GUI)
+- Note categories or tags
+- Sorting notes
+- Date and time for each note
+- Database support
+- Graphical user interface (GUI)
 
 ---
 
@@ -91,3 +91,5 @@ Current Release: **v1.0**
 - Added searching, editing, renaming, and input validation.
 - Refactored repeated code into reusable helper functions.
 - Improved the user interface with clearer menus and better formatted output.
+
+**Last updated:** July 2026
